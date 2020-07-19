@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <br>
+  <br>
+  <br>
+  <samp>Hello there. I'm <a href="">A</a>.<br> .<br><br>#javascript</samp>
+  <br>
+  <br>
+  <br>
+  <br>
+  <img src="" width="350" />
+</p>
+
+------------
+<p align="center">⭐️ From <a href=""></a></p>
