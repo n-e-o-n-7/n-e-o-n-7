@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **n-e-o-n-7/n-e-o-n-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,8 +24,9 @@ Here are some ideas to get you started:
   <br>
   <br>
   <br>
-  <img src="" width="350" />
 </p>
 
+<!--
 ------------
 <p align="center">⭐️ From <a href=""></a></p>
+-->
