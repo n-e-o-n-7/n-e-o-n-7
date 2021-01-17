@@ -20,7 +20,8 @@ Here are some ideas to get you started:
   <br>
   <br>
   <samp>
-    Hello there. I'm <a href="">A</a>.
+    Hello there
+    <br>I'm <a href="">A</a>
     <br> .
     <br>
     <br>#javascript #Swift
