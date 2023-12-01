@@ -7,7 +7,7 @@
     <br>I'm <a href="https://n-e-o-n-7.github.io/">A</a>
     <br>.
     <br>
-    <br>#Swift #javascript
+    <br>#Swift #javascript #Typescript #Rust
   </samp>
   <br>
   <br>
