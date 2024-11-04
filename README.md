@@ -3,10 +3,10 @@
   <br>
   <br>
   <samp>
-    Hello there
-    <br>I'm <a href="https://n-e-o-n-7.github.io/">A</a>
+    HellO
+    <br>I'm <a href="https://n-e-o-n-7.github.io/">Ye</a>
     <br>.
-    <br>Swift & Rust'
+    <br>Swift & 'Rust
     <br>javascript | Typescript
   </samp>
   <br>
